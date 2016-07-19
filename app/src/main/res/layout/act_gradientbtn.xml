@@ -1,0 +1,77 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btnOrange"
+            style="@style/btnOrangeStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/offset_12dp"
+            android:layout_marginBottom="@dimen/offset_12dp"
+            android:layout_marginLeft="@dimen/offset_40dp"
+            android:layout_marginRight="@dimen/offset_40dp"
+            android:text="@string/gradientBtnActivity_btn_orange" />
+
+        <Button
+            android:id="@+id/btnBrown"
+            style="@style/btnBrownStyle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/offset_12dp"
+            android:layout_marginBottom="@dimen/offset_12dp"
+            android:layout_marginLeft="@dimen/offset_40dp"
+            android:layout_marginRight="@dimen/offset_40dp"
+            android:text="@string/gradientBtnActivity_btn_brown" />
+
+        <Button
+            android:id="@+id/btnGreen"
+            style="@style/btnGreenStyle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/offset_12dp"
+            android:layout_marginBottom="@dimen/offset_12dp"
+            android:layout_marginLeft="@dimen/offset_40dp"
+            android:layout_marginRight="@dimen/offset_40dp"
+            android:text="@string/gradientBtnActivity_btn_green" />
+
+        <Button
+            android:id="@+id/btnBlue"
+            style="@style/btnBlueStyle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/offset_12dp"
+            android:layout_marginBottom="@dimen/offset_12dp"
+            android:layout_marginLeft="@dimen/offset_40dp"
+            android:layout_marginRight="@dimen/offset_40dp"
+            android:text="@string/gradientBtnActivity_btn_blue" />
+
+        <Button
+            android:id="@+id/btnPurple"
+            style="@style/btnPurpleStyle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/offset_12dp"
+            android:layout_marginBottom="@dimen/offset_12dp"
+            android:layout_marginLeft="@dimen/offset_40dp"
+            android:layout_marginRight="@dimen/offset_40dp"
+            android:text="@string/gradientBtnActivity_btn_purple" />
+
+        <Button
+            android:id="@+id/btnYellow"
+            style="@style/btnYellowStyle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/offset_12dp"
+            android:layout_marginBottom="@dimen/offset_12dp"
+            android:layout_marginLeft="@dimen/offset_40dp"
+            android:layout_marginRight="@dimen/offset_40dp"
+            android:text="@string/gradientBtnActivity_btn_yellow" />
+    </LinearLayout>
+
+</ScrollView>

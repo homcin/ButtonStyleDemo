@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 默认时 -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/baiCiZhanActivity_btn_fill_white" />
+            <padding
+                android:top="@dimen/offset_10dp"
+                android:bottom="@dimen/offset_10dp" />
+            <corners android:radius="@dimen/corner_radius_6dp" />
+            <stroke
+                android:width="@dimen/stroke_width_0.5dp"
+                android:color="@color/baiCiZhanActivity_btn_border_gray"/>
+        </shape>
+    </item>
+</selector>

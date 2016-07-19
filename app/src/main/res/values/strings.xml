@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ButtonStyleDemo</string>
+
+    <!-- 页面标题 -->
+    <string name="baiCiZhanActivity_title_text">百词斩中按钮</string>
+    <string name="gradientBtnActivity_title_text">颜色渐变按钮</string>
+
+    <!-- 按钮文字 -->
+    <string name="MainActivity_btn_toGradientBtnActivity">颜色渐变按钮</string>
+    <string name="MainActivity_btn_toBaiCiZhanActivity">百词斩中按钮</string>
+    <string name="gradientBtnActivity_btn_orange">OrangeButton</string>
+    <string name="gradientBtnActivity_btn_brown">BrownButton</string>
+    <string name="gradientBtnActivity_btn_green">GreenButton</string>
+    <string name="gradientBtnActivity_btn_blue">BlueButton</string>
+    <string name="gradientBtnActivity_btn_purple">PurpleButton</string>
+    <string name="gradientBtnActivity_btn_yellow">YelloButton</string>
+    <string name="baiCiZhanActivity_btn_resiteWords">开始背单词吧</string>
+    <string name="baiCiZhanActivity_btn_wordsTV">单词TV</string>
+    <string name="baiCiZhanActivity_btn_wordsRadio">单词电台</string>
+
+</resources>

@@ -1,0 +1,59 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="btnOrangeStyle" parent="@android:style/Widget.Button">
+        <item name="android:textSize">@dimen/font_size_normal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white_primary</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/common_btn_orange_selector</item>
+    </style>
+
+    <style name="btnBrownStyle" parent="@android:style/Widget.Button">
+        <item name="android:textSize">@dimen/font_size_normal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white_primary</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/common_btn_brown_selector</item>
+    </style>
+
+    <style name="btnGreenStyle" parent="@android:style/Widget.Button">
+        <item name="android:textSize">@dimen/font_size_normal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white_primary</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/common_btn_green_selector</item>
+    </style>
+
+    <style name="btnBlueStyle" parent="@android:style/Widget.Button">
+        <item name="android:textSize">@dimen/font_size_normal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white_primary</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/common_btn_blue_selector</item>
+    </style>
+
+    <style name="btnPurpleStyle" parent="@android:style/Widget.Button">
+        <item name="android:textSize">@dimen/font_size_normal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white_primary</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/common_btn_purple_selector</item>
+    </style>
+
+    <style name="btnYellowStyle" parent="@android:style/Widget.Button">
+        <item name="android:textSize">@dimen/font_size_normal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white_primary</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/common_btn_yellow_selector</item>
+    </style>
+
+</resources>

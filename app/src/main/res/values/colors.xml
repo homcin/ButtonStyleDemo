@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white_primary">#FFFFFF</color>
+
+    <color name="orange_light">#ff6c52</color>
+    <color name="orange_dark">#e0341e</color>
+    <color name="pressed_orange_light">#d62608</color>
+    <color name="pressed_orange_dark">#a11005</color>
+    <color name="stroke_orange">#c53e2b</color>
+
+    <color name="brown_light">#cbb59d</color>
+    <color name="brown_dark">#92806c</color>
+    <color name="pressed_brown_light">#cbb59d</color>
+    <color name="pressed_brown_dark">#5f4427</color>
+    <color name="stroke_brown">#83776b</color>
+
+    <color name="green_light">#8dbab3</color>
+    <color name="green_dark">#58857e</color>
+    <color name="pressed_green_light">#689a92</color>
+    <color name="pressed_green_dark">#345953</color>
+    <color name="stroke_green">#5e7974</color>#36797f
+
+    <color name="blue_light">#73c5d3</color>
+    <color name="blue_dark">#308d9e</color>
+    <color name="pressed_blue_light">#58a9b7</color>
+    <color name="pressed_blue_dark">#185c60</color>
+    <color name="stroke_blue">#36797f</color>
+
+    <color name="purple_light">#994552</color>
+    <color name="purple_dark">#5f0c16</color>
+    <color name="pressed_purple_light">#4e0b13</color>
+    <color name="pressed_purple_dark">#200204</color>
+    <color name="stroke_purple">#5b222b</color>
+
+    <color name="yellow_light">#ced285</color>
+    <color name="yellow_dark">#9b9f55</color>
+    <color name="pressed_yellow_light">#aeb25e</color>
+    <color name="pressed_yellow_dark">#838830</color>
+    <color name="stroke_yellow">#868a57</color>
+
+    <!-- 仿百词斩界面 -->
+    <color name="baiCiZhanActivity_bg_gray">#E9E4D9</color>
+    <color name="baiCiZhanActivity_btn_fill_blue">#7EAEDC</color>
+    <color name="baiCiZhanActivity_btn_border_blue">#72A8D3</color>
+    <color name="baiCiZhanActivity_btn_fill_white">#EEEEEE</color>
+    <color name="baiCiZhanActivity_btn_border_gray">#D6D2C5</color>
+    <color name="baiCiZhanActivity_btn_text_blue">#7EAEDC</color>
+
+
+</resources>

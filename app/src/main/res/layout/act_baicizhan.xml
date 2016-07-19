@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/baiCiZhanActivity_bg_gray">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/offset_12dp"
+        android:layout_marginBottom="@dimen/offset_12dp"
+        android:layout_marginLeft="@dimen/offset_40dp"
+        android:layout_marginRight="@dimen/offset_40dp"
+        style="?android:attr/borderlessButtonStyle"
+        android:background="@drawable/act_baicizhan_btn_blue_selector"
+        android:text="@string/baiCiZhanActivity_btn_resiteWords"
+        android:textSize="@dimen/font_size_normal_high"
+        android:textColor="@android:color/white"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="@dimen/offset_40dp"
+        android:layout_marginRight="@dimen/offset_40dp">
+
+        <Button
+            android:id="@+id/btnWordsTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/offset_2dp"
+            android:layout_marginBottom="@dimen/offset_2dp"
+            android:layout_marginRight="@dimen/offset_16dp"
+            android:layout_weight="1"
+            style="?android:attr/borderlessButtonStyle"
+            android:background="@drawable/act_baicizhan_btn_transparent_selector"
+            android:text="@string/baiCiZhanActivity_btn_wordsTV"
+            android:textSize="@dimen/font_size_normal"
+            android:textColor="@drawable/act_baicizhan_btn_text_selector" />
+
+        <Button
+            android:id="@+id/btnWordsRadio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/offset_2dp"
+            android:layout_marginBottom="@dimen/offset_2dp"
+            android:layout_weight="1"
+            style="?android:attr/borderlessButtonStyle"
+            android:background="@drawable/act_baicizhan_btn_transparent_selector"
+            android:text="@string/baiCiZhanActivity_btn_wordsRadio"
+            android:textSize="@dimen/font_size_normal"
+            android:textColor="@drawable/act_baicizhan_btn_text_selector" />
+
+    </LinearLayout>
+
+</LinearLayout>
